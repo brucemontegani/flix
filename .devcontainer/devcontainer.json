@@ -24,7 +24,8 @@
 			"extensions": [
 				"shopify.ruby-extensions-pack",
 				"mtxr.sqltools",
-				"mtxr.sqltools-driver-pg"
+				"mtxr.sqltools-driver-pg",
+				"formulahendry.code-runner"
 			]
 		}
 	}
