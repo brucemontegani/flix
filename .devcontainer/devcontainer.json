@@ -25,7 +25,8 @@
 				"shopify.ruby-extensions-pack",
 				"mtxr.sqltools",
 				"mtxr.sqltools-driver-pg",
-				"formulahendry.code-runner"
+				"formulahendry.code-runner",
+				"donjayamanne.githistory"
 			]
 		}
 	}
